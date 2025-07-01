@@ -1,5 +1,7 @@
 # Ethereum Vanity Wallet Generator
 
+![carbon](https://github.com/user-attachments/assets/145a42af-ee7e-4b56-aae7-d2ad424d04c1)
+
 A fast, multi-threaded Ethereum wallet generator with two modes:
 - **Prefix mode**: Find addresses with a specific prefix.
 - **Clean mode**: Find addresses with a high ratio of numbers or letters.
