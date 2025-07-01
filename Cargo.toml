@@ -1,0 +1,16 @@
+[package]
+name = "eth-wallet-generator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bip39 = "2.0"
+k256 = "0.13"
+tiny-keccak = { version = "2.0", features = ["keccak"] }
+rayon = "1.8"
+hex = "0.4"
+num_cpus = "1.16"
+rand = "0.8"
+hdwallet = "0.4.1"
+ctrlc = "3.4"
+colored = "2.1"
